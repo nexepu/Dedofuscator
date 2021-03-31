@@ -1,4 +1,6 @@
 # Dedofuscator
+[![](https://img.shields.io/badge/license-GPLv3-blue)](https://img.shields.io/badge/license-GPLv3-blue)
+
 This is a deobfuscator for Ankama's Dofuscator that is used in the RawDataMessage**
 
 It is still in a beta phase, which means it is not completed yet. as the weird functions that calculate some stuff are still there and it's still in progress.
